@@ -1,4 +1,8 @@
-# python-fin-proj
+# 2020 Fall NTUEE Computer Programming Final Project
+## Vpython in Graphic Interface
+### Author: B09901142, B09202017
+
+### Usage
 1. packages and modules needed to reproduce -> requirements.txt
 2. if there is problem on running on different system(i.e. linux...),change the code in /main.py/ on line 123 to #os.system("python output.py")#
    if the code is already editted like this, running the program should be fine.
